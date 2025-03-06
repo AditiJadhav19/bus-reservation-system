@@ -37,7 +37,7 @@ The Bus Reservation System provides the following features:
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/bus-reservation-system.git
+   git clone https://github.com/AditiJadhav19/bus-reservation-system.git
    ```
 
 2. Navigate to the project directory:
